@@ -62,4 +62,4 @@ if (!$token) {
 // 	'attr' => 'LED_OnOff',
 // 	'val' => true
 // ]);
-// var_dump($r);exit;
+var_dump($r);exit;
